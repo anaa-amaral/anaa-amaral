@@ -10,8 +10,6 @@ Tenho experiência com desenvolvimento de aplicações modernas e estou sempre b
 - Interesse em: Dessenvolvimento front-end e full-stack;
 - Localização: Joinville-SC;
 
-<img width="90" height="80" alt="css3" src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" />
-
 ## Linguagens
 
 <p align="center">
