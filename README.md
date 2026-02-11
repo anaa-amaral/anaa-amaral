@@ -5,10 +5,10 @@ Me chamo Ana Luiza do Amaral, tenho 17 anos.
 Desenvolvedora focada no front-end e full-stack.
 Tenho experiência com desenvolvimento de aplicações modernas e estou sempre buscando evoluir minhas habilidades técnicas e profissionais.
 
--Formação: Análise e Desenvolvimento de Sistemas - SENAI;
--Atualmente estudando: Engenharia de Software - PUC SC;
--Interesse em: Dessenvolvimento front-end e full-stack;
--Localização: Joinville-SC;
+- Formação: Análise e Desenvolvimento de Sistemas - SENAI;
+- Atualmente estudando: Engenharia de Software - PUC SC;
+- Interesse em: Dessenvolvimento front-end e full-stack;
+- Localização: Joinville-SC;
 
 ## Linguagens
 
@@ -19,25 +19,8 @@ Tenho experiência com desenvolvimento de aplicações modernas e estou sempre b
 <img width="70" height="70" alt="css3" src="https://github.com/user-attachments/assets/979cd754-33a2-43ba-9966-bb6a2fe4f289" />
 <img width="70" height="70" alt="css3" src="https://github.com/user-attachments/assets/cf6948b1-0019-4f1a-9f21-f0d08dad6875" />
 
+## Contato
 
-📊 Estatísticas GitHub
-<!-- Você pode usar geradores como github-readme-stats -->
-
-📌 Projetos em Destaque
-
-🔹 Nome do Projeto 1
-
-Breve descrição do que o projeto faz e qual tecnologia foi usada.
-
-🔹 Nome do Projeto 2
-
-Breve descrição do projeto.
-
-📫 Contato
-
-💼 LinkedIn: [link]
-
-📧 Email: [seuemail@email.com
-]
-
-🌐 Portfólio: [link do portfólio]
+- Contato: 47 99730-0203
+- Email: anaaluizadoamaral@gmail.com
+- Portfólio:https://github.com/fic-fabrica-de-software/construindo-o-portfolio-anaa-amaral
