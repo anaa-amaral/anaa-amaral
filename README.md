@@ -1,5 +1,5 @@
 # Ana Luiza do Amaral
-<img width="900" height="30" alt="css3" src="https://readme-typing-svg.herokuapp.com/?color=pink&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Ana+Luiza+do+Amaral+,tenho+17+anos" />
+<img width="900" height="30" alt="css3" src="https://readme-typing-svg.herokuapp.com/?color=ff1493&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Ana+Luiza+do+Amaral+,tenho+17+anos" />
 
 ## Sobre mim
 Desenvolvedora focada no front-end e full-stack.
