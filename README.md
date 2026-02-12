@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Ana%20Luiza%20do%20Amaral&fontSize=30&fontColor=ffffff" />
 
-<img width="900" height="30" alt="css3" src="https://readme-typing-svg.herokuapp.com/?color=ff1493&size=35&center=true&vCenter=true&width=1000&lines=Prazer,+venha+conhecer+meu+git+hub" />
-
 ## Sobre mim
 Desenvolvedora de 17 anos focada no front-end e full-stack.
 Tenho experiência com desenvolvimento de aplicações modernas e estou sempre buscando evoluir minhas habilidades técnicas e profissionais.
