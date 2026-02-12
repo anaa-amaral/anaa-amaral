@@ -23,4 +23,4 @@ Tenho experiência com desenvolvimento de aplicações modernas e estou sempre b
 
 - Contato: 47 99730-0203
 - Email: anaaluizadoamaral@gmail.com
-- Portfólio:https://github.com/fic-fabrica-de-software/construindo-o-portfolio-anaa-amaral
+- Portfólio:[https://github.com/fic-fabrica-de-software/construindo-o-portfolio-anaa-amaral](https://fic-fabrica-de-software.github.io/construindo-o-portfolio-anaa-amaral/)
