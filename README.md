@@ -11,7 +11,7 @@ Tenho experiência com desenvolvimento de aplicações modernas e estou sempre b
 ## Linguagens
 
 <p align="center">
-<img width="90" height="70" alt="css3" src="[https://github.com/user-attachments/assets/16dc3ba5-a55c-4d15-95ee-39376bd4bd97](https://raw.githubusercontent.com/fic-fabrica-de-software/construindo-o-portfolio-anaa-amaral/refs/heads/main/assets/imagens/C.avif)"/>
+<img width="90" height="70" alt="css3" src="https://raw.githubusercontent.com/fic-fabrica-de-software/construindo-o-portfolio-anaa-amaral/refs/heads/main/assets/imagens/C.avif"/>
 <img width="90" height="70" alt="css3" src="https://github.com/user-attachments/assets/16dc3ba5-a55c-4d15-95ee-39376bd4bd97"/>
 <img width="70" height="70" alt="css3" src="https://github.com/user-attachments/assets/2197962e-d8e3-4339-894d-18c641c4dd02"/>
 <img width="70" height="70" alt="css3" src="https://github.com/user-attachments/assets/e287fe67-7491-4ce5-9a0a-b65002ecb3c0"/>
