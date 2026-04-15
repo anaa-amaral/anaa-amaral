@@ -18,6 +18,7 @@ Tenho experiência com desenvolvimento de aplicações modernas e estou sempre b
 <img width="80" height="70" alt="css3" src="https://github.com/user-attachments/assets/7b4eaa9e-bc60-42fd-a385-87eda3f7e893"/>
 <img width="70" height="70" alt="css3" src="https://github.com/user-attachments/assets/979cd754-33a2-43ba-9966-bb6a2fe4f289"/>
 <img width="70" height="70" alt="css3" src="https://github.com/user-attachments/assets/cf6948b1-0019-4f1a-9f21-f0d08dad6875"/>
+<img width="360" height="405" alt="C_Logo" src="https://github.com/user-attachments/assets/7a55265e-01ac-4d38-a949-2bb5102fe392" />
 </p>
 
 ## Contato
